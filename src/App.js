@@ -78,11 +78,6 @@ class App extends React.Component {
         <div className="App-header">
           <ProjectList />
         </div>
-        <ProjectList />
-        <ProjectList />
-        <ProjectList />
-        <ProjectList />
-        <ProjectList />
       </div>
     );
   }
